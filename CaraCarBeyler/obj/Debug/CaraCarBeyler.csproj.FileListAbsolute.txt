@@ -1,0 +1,64 @@
+c:\users\hp\documents\visual studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\bin\Debug\CaraCarBeyler.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\bin\Debug\CaraCarBeyler.exe
+c:\users\hp\documents\visual studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\bin\Debug\CaraCarBeyler.pdb
+c:\users\hp\documents\visual studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.Form1.resources
+c:\users\hp\documents\visual studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.exe
+c:\users\hp\documents\visual studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.pdb
+c:\users\hp\documents\visual studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.anamenu.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.ayarlar.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.gecmis.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.islemler.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.Report.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.aracuretimyili.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.renkekle.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.YakitTuru.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\RdlCompile.cache
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\RdlCompile.compiled
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.raporluyorum.resources
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\bin\Debug\CaraCarBeyler.exe.config
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.exe
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.pdb
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\bin\Debug\CaraCarBeyler.exe
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\bin\Debug\CaraCarBeyler.pdb
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.anamenu.resources
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.aracuretimyili.resources
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.ayarlar.resources
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.Form1.resources
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.gecmis.resources
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.islemler.resources
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.Properties.Resources.resources
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.raporluyorum.resources
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.renkekle.resources
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.YakitTuru.resources
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\RdlCompile.cache
+C:\Users\Hp\Desktop\CaraCarBeyler\CaraCarBeyler\obj\Debug\RdlCompile.compiled
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\bin\Debug\CaraCarBeyler.exe.config
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.exe
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.pdb
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\bin\Debug\CaraCarBeyler.exe
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\bin\Debug\CaraCarBeyler.pdb
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.anamenu.resources
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.aracuretimyili.resources
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.ayarlar.resources
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.Form1.resources
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.gecmis.resources
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.islemler.resources
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.Properties.Resources.resources
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.raporluyorum.resources
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.renkekle.resources
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.YakitTuru.resources
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\RdlCompile.cache
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\RdlCompile.compiled
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.kasatipi.resources
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.markaekle.resources
+C:\Users\Hp\Desktop\kopya\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.modelekle.resources
+D:\Dosyalarım\2018-2019 Bahar dönemi\164410043_Gamze_BABAYİĞİT\CaraCarBeyler\CaraCarBeyler\bin\Debug\CaraCarBeyler.exe.config
+D:\Dosyalarım\2018-2019 Bahar dönemi\164410043_Gamze_BABAYİĞİT\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.exe
+D:\Dosyalarım\2018-2019 Bahar dönemi\164410043_Gamze_BABAYİĞİT\CaraCarBeyler\CaraCarBeyler\obj\Debug\CaraCarBeyler.pdb
